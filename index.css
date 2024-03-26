@@ -6,6 +6,9 @@ body {
   font-weight: bold;
   color: white;
   text-align: center;
+  border: 5px goldenrod solid;
+  padding: 30px;
+  border-radius: 15px;
 }
 
 h1 {
