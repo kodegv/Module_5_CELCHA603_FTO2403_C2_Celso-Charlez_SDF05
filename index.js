@@ -1,5 +1,5 @@
 let player = {
-  name: "Per",
+  name: "BestGambler2024Xx",
   chips: 200,
 };
 
@@ -28,6 +28,7 @@ function getRandomCard() {
 
 function startGame() {
   isAlive = true;
+  hasBlackJack = false;
   let firstCard = getRandomCard();
   let secondCard = getRandomCard();
   cards = [firstCard, secondCard];
@@ -47,6 +48,7 @@ function renderGame() {
   } else if (sum === 21) {
     message = "You've got Blackjack!";
     hasBlackJack = true;
+    //player.chips = player.chips + 100;
   } else {
     message = "You're out of the game!";
     isAlive = false;
