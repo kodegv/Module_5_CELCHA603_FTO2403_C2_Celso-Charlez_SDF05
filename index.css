@@ -19,9 +19,11 @@ h1 {
   font-style: italic;
   font-weight: bolder;
   font-size: large;
+  text-align: center;
   border: 2px white solid;
-  margin: 20px 520px;
+  margin: 20px auto;
   padding: 10px 50px;
+  width: fit-content;
 }
 
 #cards-el {
@@ -43,7 +45,9 @@ button {
 
 #player-el {
   border: 2px goldenrod solid;
-  margin: 50px 570px;
+  margin: 50px auto;
   padding: 10px 50px;
   border-radius: 30px;
+  width: fit-content;
+  text-align: center;
 }
