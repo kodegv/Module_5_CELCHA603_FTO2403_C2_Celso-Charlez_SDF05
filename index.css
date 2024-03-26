@@ -17,6 +17,15 @@ h1 {
 
 #message-el {
   font-style: italic;
+  font-weight: bolder;
+  font-size: large;
+  border: 2px white solid;
+  margin: 20px 520px;
+  padding: 10px 50px;
+}
+
+#cards-el {
+  margin-bottom: 60px;
 }
 
 button {
