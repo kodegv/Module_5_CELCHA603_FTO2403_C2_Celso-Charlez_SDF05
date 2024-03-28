@@ -10,7 +10,7 @@ In this project, I recreate a popular card game. With the assistance of Scrimba,
 - Ensure the game operates smoothly and maintains a consistent style.
 - Submit your GitHub Repo link of your completed BlackJack Game to the LMS on the SDF05 Project Tab
 
-### Project Requirements
+### Project Challenges
 
 - Having to learn arrays took me quite some time as I couldn't grasp it immediately.
 - The code from the Scrimba lessons contained a bug, but I was able to correct it within a few minutes.
